@@ -1,0 +1,30 @@
+{
+  "name": "Bloom Studio Boston",
+  "address": "103 Newbury St, Boston, MA 02116",
+  "city": "Boston",
+  "state": "MA",
+  "email": "Contact@bloomstudioboston.com",
+  "instagram": "@bloomstudioboston",
+  "instagramUrl": "https://www.instagram.com/bloomstudioboston/",
+  "phone": "",
+  "mapQuery": "103 Newbury St, Boston, MA 02116",
+  "hours": [
+    {
+      "label": "Workshop hours",
+      "value": "By scheduled session"
+    },
+    {
+      "label": "Private events",
+      "value": "By inquiry"
+    }
+  ],
+  "owner": {
+    "name": "Vicky",
+    "title": "Founder & Creative Host",
+    "story": "Vicky has always loved arts and crafts, especially the simple feeling of sitting down with your hands busy and your mind finally quiet. She started Bloom Studio Boston because she wanted to create the kind of place she wished existed more often: a warm, welcoming studio where people could try something creative without needing to be an artist first. For Vicky, Bloom is about more than making a candle, decorating a clock, or finishing a craft. It is about making community. She wanted a space where friends could spend time together, people could comfortably come alone, and strangers could leave feeling a little more connected than when they walked in.",
+    "shortStory": "A woman-owned creative studio built from Vicky's love of arts, crafts, and bringing people together."
+  },
+  "locationNote": "Temporary business/contact address. Workshop venue details are confirmed with each session.",
+  "contactEmail": "Contact@bloomstudioboston.com",
+  "siteUrl": "https://bloomstudioboston.com"
+}

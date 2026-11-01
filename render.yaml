@@ -1,0 +1,48 @@
+services:
+  - type: web
+    name: bloom-studio-boston
+    runtime: node
+    region: ohio
+    buildCommand: npm run install:all && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    domains:
+      - bloomstudioboston.com
+      - www.bloomstudioboston.com
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        sync: false
+      - key: DATABASE_SSL
+        value: "true"
+      - key: ADMIN_EMAILS
+        value: Breannagushman02@gmail.com,Contact@bloomstudioboston.com
+      - key: SITE_URL
+        value: https://bloomstudioboston.com
+      - key: CORS_ORIGIN
+        value: https://bloomstudioboston.com
+      - key: EMAIL_FROM_NAME
+        value: Bloom Studio Boston
+      - key: EMAIL_FROM_ADDRESS
+        value: Contact@bloomstudioboston.com
+      - key: SMTP_HOST
+        sync: false
+      - key: SMTP_PORT
+        sync: false
+      - key: SMTP_SECURE
+        sync: false
+      - key: SMTP_USER
+        sync: false
+      - key: SMTP_PASS
+        sync: false
+      - key: SQUARE_ENVIRONMENT
+        value: production
+      - key: SQUARE_APPLICATION_ID
+        sync: false
+      - key: SQUARE_ACCESS_TOKEN
+        sync: false
+      - key: SQUARE_LOCATION_ID
+        sync: false
+      - key: SQUARE_WEBHOOK_SIGNATURE_KEY
+        sync: false

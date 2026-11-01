@@ -1,0 +1,24 @@
+[
+  {
+    "id": "pressed-flower-lamp",
+    "slug": "pressed-flower-lamp",
+    "title": "Pressed Flower Lamp Workshop",
+    "category": "Coming Soon",
+    "image": "/images/people-candle-workshop.png",
+    "description": "A future Bloom Studio workshop concept where guests create a soft-glow decorative lamp using pressed florals and delicate botanical details.",
+    "status": "idea",
+    "date": null,
+    "location": null
+  },
+  {
+    "id": "pearl-photo-frame",
+    "slug": "pearl-photo-frame",
+    "title": "Pearl & Ribbon Photo Frame",
+    "category": "Coming Soon",
+    "image": "/images/shop-mask-collection.jpeg",
+    "description": "A playful frame-decorating concept using pearls, ribbon, charms, and soft pastel embellishments.",
+    "status": "idea",
+    "date": null,
+    "location": null
+  }
+]

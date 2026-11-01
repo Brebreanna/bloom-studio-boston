@@ -1,0 +1,61 @@
+{
+  "enabled": true,
+  "name": "Bloom Club",
+  "description": "Choose the level that fits how often you want to make, shop, and come back to Bloom.",
+  "billingOptions": [
+    "monthly",
+    "annual"
+  ],
+  "plans": [
+    {
+      "key": "petal",
+      "name": "Petal",
+      "monthlyPrice": 50,
+      "annualPrice": 600,
+      "monthlyCredits": 1,
+      "discountPercent": 10,
+      "discountScope": "workshops",
+      "friendPassesPerYear": 0,
+      "benefits": [
+        "1 workshop credit each month",
+        "10% off additional workshop tickets",
+        "Early access to newly released dates",
+        "Member-only seasonal studio nights"
+      ]
+    },
+    {
+      "key": "bloom",
+      "name": "Blossom",
+      "monthlyPrice": 90,
+      "annualPrice": 1080,
+      "monthlyCredits": 2,
+      "discountPercent": 20,
+      "discountScope": "all",
+      "friendPassesPerYear": 0,
+      "benefits": [
+        "2 workshop credits each month",
+        "20% off workshops and ready-made art",
+        "Early access to newly released dates",
+        "Member-only seasonal studio nights"
+      ]
+    },
+    {
+      "key": "full-bloom",
+      "name": "Flourish",
+      "monthlyPrice": 120,
+      "annualPrice": 1440,
+      "monthlyCredits": 3,
+      "discountPercent": 20,
+      "discountScope": "all",
+      "friendPassesPerYear": 1,
+      "benefits": [
+        "3 workshop credits each month",
+        "20% off workshops and ready-made art",
+        "Early access to newly released dates",
+        "Member-only seasonal studio nights",
+        "1 complimentary friend pass per membership year"
+      ]
+    }
+  ],
+  "note": "Membership benefits are applied automatically to signed-in member accounts."
+}

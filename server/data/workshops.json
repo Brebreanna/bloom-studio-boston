@@ -1,0 +1,130 @@
+[
+  {
+    "id": "clock",
+    "slug": "vintage-charm-clock-decorating",
+    "title": "Vintage Charm Clock Decorating",
+    "category": "Craft",
+    "price": 68,
+    "duration": "2 hours",
+    "location": "Boston workshop venue",
+    "image": "/images/clock-autumn.png",
+    "gallery": [
+      "/images/clock-autumn.png",
+      "/images/clock-dog.png",
+      "/images/clock-making-workshop.png"
+    ],
+    "featured": true,
+    "description": "Transform vintage-inspired clock dials with hand-sculpted clay charms, miniature pastries, acorns, botanical pressed florals, and vintage ribbon accents.",
+    "provided": "Clock components, sculpting clay, tools, paint, adhesives, plus complimentary herbal tea and fresh bakery macarons.",
+    "skill": "100% beginner friendly. No experience needed.",
+    "scheduleRules": [
+      {
+        "weekday": 6,
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "capacity": 8
+      },
+      {
+        "weekday": 0,
+        "startTime": "11:00",
+        "endTime": "13:00",
+        "capacity": 8
+      }
+    ],
+    "bookingWindowDays": 120,
+    "minimumLeadHours": 24
+  },
+  {
+    "id": "bouquet",
+    "slug": "botanical-candle-bouquet-making",
+    "title": "Botanical Candle Bouquet Making",
+    "category": "Candle",
+    "price": 62,
+    "duration": "2 hours",
+    "location": "Boston workshop venue",
+    "image": "/images/rose-candle-bouquet-hand.png",
+    "gallery": [
+      "/images/rose-candle-bouquet-hand.png",
+      "/images/rose-candle-bouquet-basket.png",
+      "/images/people-candle-workshop.png"
+    ],
+    "featured": true,
+    "description": "Hand-pour scented soy wax roses, blend seasonal aromatics, and assemble them into wrapped paper bouquets finished with dried florals.",
+    "provided": "Wax, molds, fragrance, wrapping materials, dried botanicals, tools, and tea.",
+    "skill": "Beginner friendly.",
+    "scheduleRules": [
+      {
+        "weekday": 4,
+        "startTime": "18:30",
+        "endTime": "20:30",
+        "capacity": 8
+      },
+      {
+        "weekday": 6,
+        "startTime": "13:00",
+        "endTime": "15:00",
+        "capacity": 8
+      }
+    ],
+    "bookingWindowDays": 120,
+    "minimumLeadHours": 24
+  },
+  {
+    "id": "mask",
+    "slug": "venetian-gilded-mask-atelier",
+    "title": "Venetian Gilded Mask Atelier",
+    "category": "Seasonal",
+    "price": 74,
+    "duration": "2 hours",
+    "location": "Boston workshop venue",
+    "image": "/images/mask-blue-rhinestone.png",
+    "gallery": [
+      "/images/mask-blue-rhinestone.png",
+      "/images/mask-blue-black.png",
+      "/images/mask-collection.png",
+      "/images/mask-making-workshop.png"
+    ],
+    "featured": true,
+    "description": "Explore Venetian decorative techniques: leaf gilding, crystal accents, fine floral decoupage, and ribbon finishing.",
+    "provided": "Mask base, crystals, ribbon, floral paper, gilding materials, adhesives, and all tools.",
+    "skill": "Beginner friendly.",
+    "scheduleRules": [
+      {
+        "weekday": 0,
+        "startTime": "13:00",
+        "endTime": "15:00",
+        "capacity": 8
+      }
+    ],
+    "bookingWindowDays": 120,
+    "minimumLeadHours": 24
+  },
+  {
+    "id": "gown",
+    "slug": "sculpted-gown-rose-wax-candles",
+    "title": "Sculpted Gown & Rose Wax Candles",
+    "category": "Candle",
+    "price": 65,
+    "duration": "2 hours",
+    "location": "Boston workshop venue",
+    "image": "/images/gown-candles.png",
+    "gallery": [
+      "/images/gown-candles.png",
+      "/images/gown-candles-alt.png"
+    ],
+    "featured": true,
+    "description": "Pour delicate Bridgerton-inspired dress mannequin and rose blossom pillar candles with custom pastel pigments and botanical scents.",
+    "provided": "Wax, sculptural molds, fragrance, pigments, ribbons, and all tools.",
+    "skill": "Beginner friendly.",
+    "scheduleRules": [
+      {
+        "weekday": 6,
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "capacity": 8
+      }
+    ],
+    "bookingWindowDays": 120,
+    "minimumLeadHours": 24
+  }
+]

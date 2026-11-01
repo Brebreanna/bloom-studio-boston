@@ -1,0 +1,14 @@
+{
+  "cancellationShort": "Life happens, we get it. Cancel 24+ hours ahead and we'll issue store credit for the full amount paid, good for 30 days on any public session.",
+  "cancellationDetails": [
+    "Cancelling and rescheduling count as the same thing. One reschedule is allowed per reservation; a second cancellation forfeits the credit.",
+    "Cancellations within 24 hours and no-shows aren't eligible for credit or rescheduling. This includes reservations made less than 24 hours before the session.",
+    "Custom events, including Paint Your Pet, aren't eligible for refunds, credit, or rescheduling.",
+    "If Bloom has to cancel or consolidate a session because of low sign-ups or another unforeseen reason, we'll email everyone signed up by 9 PM the night before whenever possible.",
+    "Reservation cost doesn't include food or drink, so kitchen closures or unavailable menu items aren't eligible for refunds or credit."
+  ],
+  "shopReturns": "Ready-made artwork and studio shop purchases are final sale and non-refundable.",
+  "payment": "Public workshops are paid in full when booking. Active Bloom Club members can choose to use an available workshop credit instead of going through payment.",
+  "promotions": "Eligible discount codes and active membership discounts are applied in the cart. Discounts do not stack; the best eligible discount is used.",
+  "taxNote": "Massachusetts sales tax is calculated on taxable ready-made artwork in the shop. Workshop prices are shown as listed at checkout."
+}

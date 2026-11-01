@@ -1,0 +1,57 @@
+[
+  {
+    "id": "daisy-bouquet",
+    "slug": "daisy-botanical-candle-bouquet",
+    "title": "Daisy Botanical Candle Bouquet",
+    "category": "Candles",
+    "price": 42,
+    "stock": 3,
+    "image": "/images/shop-daisy-bouquet.png",
+    "description": "A ready-made floral candle bouquet wrapped in blue botanical paper and paired with dried purple accents.",
+    "badge": "Available now"
+  },
+  {
+    "id": "blue-gown-gift",
+    "slug": "blue-gown-candle-gift-set",
+    "title": "Blue Gown Candle Gift Set",
+    "category": "Candles",
+    "price": 48,
+    "stock": 3,
+    "image": "/images/shop-blue-gown-gift.png",
+    "description": "A soft blue sculptural gown candle presented with floral wrapping, ribbon, and coordinating mini flower candles.",
+    "badge": "Studio original"
+  },
+  {
+    "id": "mask-collection",
+    "slug": "decorative-mask-collection",
+    "title": "Decorative Mask Collection",
+    "category": "Wearable Art",
+    "price": 52,
+    "stock": 3,
+    "image": "/images/shop-mask-collection.jpeg",
+    "description": "Hand-finished masks featuring florals, rhinestones, feathers, ribbon, and dramatic one-of-a-kind embellishment.",
+    "badge": "Small batch"
+  },
+  {
+    "id": "gown-trio",
+    "slug": "pastel-gown-candle-trio",
+    "title": "Pastel Gown Candle Trio",
+    "category": "Candles",
+    "price": 54,
+    "stock": 3,
+    "image": "/images/shop-gown-candle-trio.png",
+    "description": "Three romantic sculptural gown candles in powder blue, lavender, and soft sage with floral detailing.",
+    "badge": "Available now"
+  },
+  {
+    "id": "floral-glass-candles",
+    "slug": "floral-glass-candle-set",
+    "title": "Floral Glass Candle Set",
+    "category": "Candles",
+    "price": 44,
+    "stock": 3,
+    "image": "/images/shop-floral-glass-candles.png",
+    "description": "A trio of creamy glass candles topped with pastel floral wax details for a soft, feminine tabletop set.",
+    "badge": "Ready to gift"
+  }
+]

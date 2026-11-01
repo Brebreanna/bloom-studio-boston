@@ -1,0 +1,22 @@
+{
+  "name": "bloom-studio-api",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src.js",
+    "start": "node src.js",
+    "db:migrate": "node scripts/migrate.js",
+    "db:seed": "node scripts/seed.js",
+    "db:setup": "npm run db:migrate && npm run db:seed",
+    "square:setup-memberships": "node scripts/setup-square-memberships.js",
+    "admin:grant": "node scripts/grant-admin.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "nodemailer": "^6.9.16",
+    "dotenv": "^16.4.7",
+    "pg": "^8.13.1"
+  }
+}
