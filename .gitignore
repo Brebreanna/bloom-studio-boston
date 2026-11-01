@@ -5,3 +5,4 @@ client/dist
 server/data/carts.json
 .DS_Store
 .env
+server/.env
